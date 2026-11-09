@@ -1,14 +1,14 @@
 # Public disclosure scope / 公开范围
 
-This repository is the public overview of World Chronicle. The engineering project, its history and the thesis manuscript stay in private repositories.
+This repository is the public overview of Readable/Unreadable, my master's thesis, presented as World Chronicle until 9 November 2026. The engineering project, its history and the thesis manuscript stay in private repositories.
 
 | Material | Public here | Never published here |
 |---|---|---|
 | Research question, play structure, author's role | README, mirroring the project website | Detailed plans, thesis manuscript |
-| Images | Two UE runtime stills and one relabelled floor plan | Other development frames, debug renders |
+| Images | Two UE runtime stills, one relabelled floor plan, and two in-game views with the game interface from an offline development run (added 9 November 2026) | Other development frames, debug renders |
 | Video | One 720p cut of the mid-term demo, with a development panel blurred | Raw recordings, run logs |
 | Questionnaire | Sample answers to three spatial questions, as seen in the demo | The full question set, profile fields and scoring |
-| Story and rules | The role structure and the idea of a world chronicle | Story branches, director rules, character briefs, prompts |
+| Story and rules | The role structure, the idea of a world chronicle, and one opening task line visible in an in-game view | Story branches, director rules, character briefs, prompts |
 | Code and data | None | Unreal project source, contracts, test material, research data |
 | Evaluation | That a play session with replay interviews is planned | Protocols, participant information, results |
 | Credentials and local file paths | None | Always excluded |
@@ -19,9 +19,9 @@ The demo uses a synthetic answer set and automated input. It shows a prototype r
 
 ---
 
-本仓是《World Chronicle》的公开概览；工程项目、开发记录和论文稿保留在私有仓库。
+本仓是《Readable/Unreadable》（硕士毕设，2026 年 11 月 9 日之前以 World Chronicle 介绍）的公开概览；工程项目、开发记录和论文稿保留在私有仓库。
 
-公开：研究问题、玩法结构与作者职责（与项目网页一致）；两张 UE 实机静帧和一张重新标注的楼层平面；一段模糊了开发面板的中期演示视频（720p），其中可以看到三道空间问题的示例作答。
+公开：研究问题、玩法结构与作者职责（与项目网页一致）；两张 UE 实机静帧、一张重新标注的楼层平面，以及两张离线开发局的带界面实机画面（2026 年 11 月 9 日加入，其中可见开场的一条任务说明）；一段模糊了开发面板的中期演示视频（720p），其中可以看到三道空间问题的示例作答。
 
 不公开：完整题目、画像字段与计分，剧情分支、导演规则、角色设定与提示词，UE 工程源码、契约与测试材料，研究数据、试玩协议、参与者信息与结果，凭据与本地路径。
 

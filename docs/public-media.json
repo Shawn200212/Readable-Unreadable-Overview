@@ -2,7 +2,7 @@
   "description": "Public media shared by the project website and this overview. A research overview, not a development log or evaluation dataset.",
   "path_base": "repository root",
   "rights_notice": "RIGHTS_AND_CREDITS.md",
-  "updated": "2026-10-28",
+  "updated": "2026-11-09",
   "evidence_limit": "Stills and the demo show a running prototype; they do not establish a complete experience, reliability or player benefit.",
   "items": [
     {
@@ -49,6 +49,46 @@
       "date_label": "October 2026",
       "caption_en": "Mid-term demo, 1:21, 720p, no audio. Synthetic answer set and automated input; a development panel is blurred from about 32 s to 48 s.",
       "caption_zh": "中期演示，1:21，720p，无声。合成答卷与自动操作；约 32–48 秒的开发面板已模糊。"
+    },
+    {
+      "file": "docs/media/ru-ui-office-en.webp",
+      "bytes": 54142,
+      "sha256": "8579785fc9312d7d7e33772ca3655c4b866490e3f9daad54641e7625f1e81e6f",
+      "kind": "runtime_ui_view",
+      "language": "en",
+      "date_label": "November 2026",
+      "caption_en": "An in-game view from an offline development run: Dr Zhou and Lin Chuan in the handover office. Each card shows the name, the role and ‘No confirmed purpose yet’; the current task is at the top right. Synthetic answers, not human play.",
+      "caption_zh": "离线开发局的实机画面：周主任与林川在交班办公室。身份卡写着姓名、职务和“暂无已确认的行为目的”，右上角是本段任务。使用合成答卷，不是真人游玩。"
+    },
+    {
+      "file": "docs/media/ru-ui-ward-talk-en.webp",
+      "bytes": 48246,
+      "sha256": "00ba9b90fba3055db5d783872fe411920ef3ae0eac0ff7e3e5b8056fe1536323",
+      "kind": "runtime_ui_view",
+      "language": "en",
+      "date_label": "November 2026",
+      "caption_en": "An in-game view from an offline development run: the patient Liu Lan in her own ward, with the talk prompt that appears when the crosshair is on her. Synthetic answers, not human play.",
+      "caption_zh": "离线开发局的实机画面：病人刘岚在自己的病房里，准星对准她时出现交谈提示。使用合成答卷，不是真人游玩。"
+    },
+    {
+      "file": "docs/media/ru-ui-office-zh.webp",
+      "bytes": 53464,
+      "sha256": "cc2f2ccaf6ae9ea2d97b147fb2a511ed1d35c8ec97e2b583b91bbd15fb428a4a",
+      "kind": "runtime_ui_view",
+      "language": "zh",
+      "date_label": "November 2026",
+      "caption_en": "An in-game view from an offline development run: Dr Zhou and Lin Chuan in the handover office. Each card shows the name, the role and ‘No confirmed purpose yet’; the current task is at the top right. Synthetic answers, not human play.",
+      "caption_zh": "离线开发局的实机画面：周主任与林川在交班办公室。身份卡写着姓名、职务和“暂无已确认的行为目的”，右上角是本段任务。使用合成答卷，不是真人游玩。"
+    },
+    {
+      "file": "docs/media/ru-ui-ward-talk-zh.webp",
+      "bytes": 48580,
+      "sha256": "894acc51f9c0181a58a71e17a876694676ae38367d4cdcf148365b97d6c6aca1",
+      "kind": "runtime_ui_view",
+      "language": "zh",
+      "date_label": "November 2026",
+      "caption_en": "An in-game view from an offline development run: the patient Liu Lan in her own ward, with the talk prompt that appears when the crosshair is on her. Synthetic answers, not human play.",
+      "caption_zh": "离线开发局的实机画面：病人刘岚在自己的病房里，准星对准她时出现交谈提示。使用合成答卷，不是真人游玩。"
     }
   ]
 }
